@@ -1,7 +1,7 @@
 @extends('layouts.main')
 @section('header')
-    <link href="{{asset('')}}/plugins/switchery/switchery.min.css" rel="stylesheet" />
-    <link rel="stylesheet" href="{{asset('')}}/plugins/morris/morris.css">
+    <link href="{{asset('')}}plugins/switchery/switchery.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="{{asset('')}}plugins/morris/morris.css">
 @stop
 @section('content')
     <!-- Start content -->

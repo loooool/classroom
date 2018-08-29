@@ -4,6 +4,6 @@
 <meta name="author" content="Coderthemes">
 
 
-<link rel="shortcut icon" href="{{asset('')}}/assets/images/favicon.ico">
+<link rel="shortcut icon" href="{{asset('')}}assets/images/favicon.ico">
 
 <title>Bodygram</title>

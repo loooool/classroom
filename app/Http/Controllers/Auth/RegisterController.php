@@ -82,6 +82,7 @@ class RegisterController extends Controller
             'sex' => $data['sex'],
             'birth_date' => $birth_date,
             'password' => Hash::make($data['password']),
+            'wallet' => 0,
         ]);
     }
 }
